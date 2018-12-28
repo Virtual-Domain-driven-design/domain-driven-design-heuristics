@@ -29,9 +29,18 @@ permalink: pretty
 navigation_header:
   Home: /
   About: /about/
-  Heuristics: /heuristics/
+  Cognitive Heuristics: /heuristics/
 
 # Footer nav
 navigation_footer:
   Back to top: "#top"
+
+# 5. Collections
+collections:
+  cognitive_heuristics:
+    title: Cognitive Heuristics # Needed for Siteleaf
+    output: true
+    description: "My thoughts and ideas" # The post list page content
+    feature_image: "/assets/img/kandinsky.jpg"
+
 

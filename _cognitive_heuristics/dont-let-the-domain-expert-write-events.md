@@ -1,23 +1,21 @@
 ---
-layout: heuristic
+title: Don't let the domain expert write events
 ---
 
-# Don't let the domain expert write events
-
-## short description
+# short description
 
 The p.o. will tell his story and the rest will write events.  Else the person will just put up stickies. the domain experts tells, everybody writes
 
-## context
+# context
 
 Building a new product, so there is no current process
 
-## tags
+# tags
 
-## Author
+# Author
 
 Krisztina Hirth
 
-## Submitter
+# Submitter
 
 Kenny Baas-Schwegler
