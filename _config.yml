@@ -27,7 +27,7 @@ permalink: pretty
 # logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 timezone: Europe/Amsterdam # Timezone for blog posts and alike
 email: "kenny@baasie.com"
-# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+disqus: "dddheuristics" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 collections_dir: heuristics
 
 # Header nav
