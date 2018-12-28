@@ -1,0 +1,43 @@
+---
+title: false
+styles: true
+---
+
+@import "alembic";
+
+.ddd-typeset li a {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #05bf85 50%);
+    background-position: 0 93%;
+    background-repeat: repeat-x;
+    background-size: 100% 0.15rem;
+
+}
+.ddd-container {
+    width: 90%;
+    max-width: 1400px;
+    margin: 0 auto; }
+
+.ddd-heuristic h1 {
+    text-align: center;
+}
+
+.heuristic p {
+    line-height: 2rem;
+    margin-bottom: 1.49999rem;
+    padding-top: 0.50001rem;
+    font-feature-settings: 'kern', 'onum', 'liga'; 
+}
+.heuristic h1, .heuristic .alpha {
+    line-height: 3rem;
+    font-size: 2.3333333333rem;
+    margin-bottom: 0.37499rem;
+    padding-top: 0.62501rem; 
+}
+.heuristic h2, .heuristic .beta {
+    line-height: 3rem;
+    font-size: 2.0833333333rem;
+    margin-bottom: 0.28124rem;
+    padding-top: 0.71876rem; 
+}
+
+
