@@ -1,22 +1,18 @@
 ---
 title: Align with historical domain boundaries
 layout: heuristic
+tags: design heuristic
+author: Nick Tune
 ---
 
-## short description
+# Short description
 
-look for parts of the domain which have not changed in a long time.
+Look for parts of the domain which have not changed in a long time.
 
-## example
+# Examples
 
 A user inbox for keeping communication message to the customer, this almost never changes.
 
-## context
+# Context
 
 We should align boundaries in sociotechnical systems with our business processes to minimise dependencies and promote sustainable development practices.
-
-## tags
-
-## Author
-
-Nick Tune

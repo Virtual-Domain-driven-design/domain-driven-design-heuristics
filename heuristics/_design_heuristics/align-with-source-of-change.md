@@ -1,22 +1,18 @@
 ---
 title: Align with source of change
 layout: heuristic
+tags: design heuristic
+author: Nick Tune
 ---
 
-## short description
+# Short description
 
 align boundaries with the people asking for changes because those people will care about concepts which are likely to be more closely related.
 
-## example
+# Examples
 
 separate business-to-business and business-to-consumer services because both customer segments will have different needs.
 
-## context
+# Context
 
 We should align boundaries in sociotechnical systems with our business processes to minimise dependencies and promote sustainable development practices.
-
-## tags
-
-## Author
-
-Nick Tune

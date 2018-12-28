@@ -1,25 +1,21 @@
 ---
 title: Don't outsource potential disruptive subdomains
 layout: heuristic
+tags: design heuristic
+author: Nick Tune
 type: subheuristic
 ---
 
-## short description
+# Short description
 
 Sometimes dependencies are so generic that you don't want to invest time in it and you want to buy them of the shelf: see [outsourced-generic-subdomains](Outsource generic subdomains)
 
 But if the market is potentially disruptive, then the bought system or SaaS solution might slow you down because of lack of innovation.
 
-### examples
+# Examples
 
 The company that created slack
 
-## context
+# Context
 
 Use these at a strategic level when defining bounded context. When you want to seperate core domains from supporting and generic subdomains
-
-## tags
-
-## Author
-
-Nick Tune

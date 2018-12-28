@@ -5,10 +5,20 @@ layout: default
 
 <main class="main  ddd-container">
 
-    <article class="article  article--post  content  heuristic">
+    <article class="article  article--post  ddd-heuristic">
 
         <h1>{{ page.title }}</h1>
-        {{ content }}
+        <small class="ddd-heuristic-meta">
+            Author: {{page.author}} {% if page.submitter %}// Submitter: {{page.submitter}} {% endif %}
+        </small>
+
+        <div class="ddd-content">
+            {{ content }}
+        </div>
+
+        <small class="ddd-heuristic-meta">
+            Tags: {{page.tags}}
+        </small>
 
         {% include nav-share.html %}
 
