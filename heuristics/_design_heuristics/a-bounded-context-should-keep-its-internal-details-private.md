@@ -1,8 +1,7 @@
 ---
+title: A bounded context should keep its internal details private
 layout: heuristic
 ---
-
-# A bounded context should keep its internal details private
 
 ## short description
 

@@ -1,8 +1,8 @@
 ---
+title: Outsource generic subdomains
 layout: heuristic
+type: subheuristic
 ---
-
-# Outsource generic subdomains
 
 ## short description
 

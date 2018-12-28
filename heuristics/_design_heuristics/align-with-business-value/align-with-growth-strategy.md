@@ -1,12 +1,12 @@
 ---
+title: Align with growth strategy
 layout: heuristic
+type: subheuristic
 ---
-
-# Align with investment strategy
 
 ## short description
 
-Align boundries with the part of the system you want to invest the most time and improvements in the future.
+Create seperate context for parts of the system business wants to scale up
 
 ## context
 

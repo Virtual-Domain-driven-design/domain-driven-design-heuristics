@@ -1,12 +1,12 @@
 ---
+title: Align with key revenue streams
 layout: heuristic
+type: subheuristic
 ---
-
-# Organise for responsiveness in differentiator capabilities
 
 ## short description
 
-TBD
+Create bounded context for the parts of the system which currently generate the most money
 
 ## context
 

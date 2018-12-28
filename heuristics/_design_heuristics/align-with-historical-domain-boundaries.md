@@ -1,16 +1,15 @@
 ---
+title: Align with historical domain boundaries
 layout: heuristic
 ---
 
-# Align with rate of change
-
 ## short description
 
-Group things that frequently change together to avoid coupling across boundaries.
+look for parts of the domain which have not changed in a long time.
 
 ## example
 
-For instance a payment service, or a user profile service or an notification service.
+A user inbox for keeping communication message to the customer, this almost never changes.
 
 ## context
 

@@ -1,8 +1,8 @@
 ---
+title: Separate engagement and revenue
 layout: heuristic
+type: subheuristic
 ---
-
-# Separate engagement and revenue
 
 ## short description
 

@@ -1,8 +1,7 @@
 ---
+title: Align with source of change
 layout: heuristic
 ---
-
-# Align with source of change
 
 ## short description
 

@@ -1,8 +1,8 @@
 ---
+title: Don't outsource potential disruptive subdomains
 layout: heuristic
+type: subheuristic
 ---
-
-# Don't outsource potential disruptive subdomains
 
 ## short description
 

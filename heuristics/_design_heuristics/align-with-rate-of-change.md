@@ -1,14 +1,15 @@
 ---
+title: Align with rate of change
 layout: heuristic
 ---
 
-# Align with domain experts
-
 ## short description
 
-align boundaries with the parts of the domain where there are different domain experts (not different people but different domain skills/knowledge).
+Group things that frequently change together to avoid coupling across boundaries.
 
 ## example
+
+For instance a payment service, or a user profile service or an notification service.
 
 ## context
 

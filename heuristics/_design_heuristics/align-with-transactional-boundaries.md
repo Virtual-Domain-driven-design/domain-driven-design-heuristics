@@ -1,8 +1,7 @@
 ---
+title: Align with transactional boundaries
 layout: heuristic
 ---
-
-# Align with transactional boundaries
 
 ## short description
 

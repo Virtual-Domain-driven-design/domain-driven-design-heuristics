@@ -1,8 +1,7 @@
 ---
+title: Align with Business Value
 layout: heuristic
 ---
-
-# Align with Business Value
 
 ## short description
 

@@ -1,12 +1,12 @@
 ---
+title: Align with evolutionary stage (the Simon Wardley heuristic)
 layout: heuristic
+type: subheuristic
 ---
-
-# Align with growth strategy
 
 ## short description
 
-Create seperate context for parts of the system business wants to scale up
+TBD
 
 ## context
 

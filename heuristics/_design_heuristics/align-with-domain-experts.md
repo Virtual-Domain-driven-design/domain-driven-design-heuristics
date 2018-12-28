@@ -1,16 +1,13 @@
 ---
+title: Align with domain experts
 layout: heuristic
 ---
 
-# Align with historical domain boundaries
-
 ## short description
 
-look for parts of the domain which have not changed in a long time.
+align boundaries with the parts of the domain where there are different domain experts (not different people but different domain skills/knowledge).
 
 ## example
-
-A user inbox for keeping communication message to the customer, this almost never changes.
 
 ## context
 

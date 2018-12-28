@@ -28,7 +28,7 @@ permalink: pretty
 timezone: Europe/Amsterdam # Timezone for blog posts and alike
 email: "kenny@baasie.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-
+collections_dir: heuristics
 
 # Header nav
 navigation_header:
@@ -47,11 +47,7 @@ collections:
   cognitive_heuristics:
     title: Cognitive Heuristics # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
-    feature_image: "/assets/img/kandinsky.jpg"
   design_heuristics:
     title: Design Heuristics # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
-    feature_image: "/assets/img/kandinsky.jpg"
 

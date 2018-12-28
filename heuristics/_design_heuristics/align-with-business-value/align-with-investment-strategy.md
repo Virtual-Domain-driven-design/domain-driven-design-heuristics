@@ -1,12 +1,12 @@
 ---
+title: Align with investment strategy
 layout: heuristic
+type: subheuristic
 ---
-
-# Align with key revenue streams
 
 ## short description
 
-Create bounded context for the parts of the system which currently generate the most money
+Align boundries with the part of the system you want to invest the most time and improvements in the future.
 
 ## context
 

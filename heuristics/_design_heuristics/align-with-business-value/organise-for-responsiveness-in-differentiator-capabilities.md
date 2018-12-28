@@ -1,8 +1,8 @@
 ---
+title: Organise for responsiveness in differentiator capabilities
 layout: heuristic
+type: subheuristic
 ---
-
-# Align with evolutionary stage (the Simon Wardley heuristic)
 
 ## short description
 

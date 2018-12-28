@@ -1,8 +1,8 @@
 ---
+title: Isolate high-leverage shared capabilities
 layout: heuristic
+type: subheuristic
 ---
-
-# Isolate high-leverage shared capabilities
 
 ## short description
 

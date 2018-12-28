@@ -1,8 +1,8 @@
 ---
+title: Optimise for future potential
 layout: heuristic
+type: subheuristic
 ---
-
-# Optimise for future potential
 
 ## short description
 
