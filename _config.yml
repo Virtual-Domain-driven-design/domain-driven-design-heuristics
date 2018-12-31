@@ -33,7 +33,6 @@ collections_dir: heuristics
 # Header nav
 navigation_header:
   Home: /
-  About: /about/
   Cognitive Heuristics: /cognitive-heuristics/
   Design Heuristics: /design-heuristics/
   Submit Heuristics: /submit/

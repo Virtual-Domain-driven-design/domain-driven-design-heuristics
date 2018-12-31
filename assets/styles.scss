@@ -5,12 +5,13 @@ styles: true
 
 @import "alembic";
 
-.ddd-typeset li a {
+
+.typeset li a {
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #05bf85 50%);
     background-position: 0 93%;
     background-repeat: repeat-x;
     background-size: 100% 0.15rem;
-
+    text-shadow: none;
 }
 .ddd-container {
     width: 90%;
@@ -49,5 +50,6 @@ styles: true
     margin-bottom: 0.37499rem;
     padding-top: 0.62501rem; 
 }
+
 
 
