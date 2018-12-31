@@ -7,10 +7,14 @@ layout: page
 >
 > -Rebecca Wirfs-Brock
 
-Domain-Driven Design Heurstics is a community driven site to document and discuss about Design Heuristics. For now we divide into two different heuristics:
+Domain-Driven Design Heuristics is a community driven site to document and discuss about Design Heuristics. For now we divide into two different heuristics:
 
 * [Cognitive Heuristics](/cognitive-heuristics): heuristics to guide our use of other heuristics.
 * [Design Heuristics](/design-heuristics): heuristics to solve a particular problem at hand.
+
+If you want to submit your own heuristics go to [Submit Heuristics](/submit-heuristics) for explanations.
+
+If you have any questions please feel free to contact: kenny@baasie.com
 
 # Video's
 {% include video.html id="TP3xTZi_Qn8" title="Distilling Your Design Heuristics: A Report and a Challenge - Rebecca Wirfs-Brock - DDD Europe 2018" %}
