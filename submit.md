@@ -3,7 +3,7 @@ layout: page
 title: About this website
 ---
 
-This sites works with jekyll on a github repo netlify. You can fork the github repo [here](https://github.com/Baasie/virtual-domain-driven-design) and create a pull request of your own heuristics.
+This sites works with jekyll on a github repo netlify. You can fork the github repo [here](https://github.com/Baasie/domain-driven-design-heuristics) and create a pull request of your own heuristics.
 
 You can a add your own heuristics as a markdown file under the directory /heuristics and then the heuristic you want to submit.
 
