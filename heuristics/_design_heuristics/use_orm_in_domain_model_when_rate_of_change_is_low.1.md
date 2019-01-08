@@ -7,7 +7,7 @@ author: Kenny Baas-Schwegler
 
 # Short description
 
-When your domain model does not change quickly you can decide to use a ORM mapping framework in your domain. This way we don't need to create mapping between the domain model and the repository model.
+When your domain model does not change quickly you can decide to use a ORM mapping framework (for instance: JPA, EntityFramework) in your domain. This way we don't need to create mapping between the domain model and the repository model.
 
 # Examples
 
