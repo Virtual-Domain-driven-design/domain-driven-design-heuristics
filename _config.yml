@@ -44,10 +44,10 @@ navigation_footer:
 
 # 5. Collections
 collections:
-  cognitive_heuristics:
+  cognitive-heuristics:
     title: Cognitive Heuristics # Needed for Siteleaf
     output: true
-  design_heuristics:
+  design-heuristics:
     title: Design Heuristics # Needed for Siteleaf
     output: true
 
