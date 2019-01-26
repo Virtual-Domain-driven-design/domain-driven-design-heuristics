@@ -1,6 +1,5 @@
 ---
 title: Don't use a framework in your domain model
-layout: heuristic
 tags: design heuristic
 author: Kenny Baas-Schwegler
 ---

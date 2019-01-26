@@ -50,4 +50,16 @@ collections:
   design-heuristics:
     title: Design Heuristics # Needed for Siteleaf
     output: true
+defaults:
+  - scope:
+      path: ""
+      type: "cognitive-heuristics"
+    values:
+      layout: heuristic
+  - scope:
+      path: ""
+      type: "design-heuristics"
+    values:
+      layout: heuristic
+
 

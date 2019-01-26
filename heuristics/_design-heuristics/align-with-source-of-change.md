@@ -1,6 +1,5 @@
 ---
 title: Align with source of change
-layout: heuristic
 tags: design heuristic
 author: Nick Tune
 ---

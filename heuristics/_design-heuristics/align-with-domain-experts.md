@@ -1,6 +1,5 @@
 ---
 title: Align with domain experts
-layout: heuristic
 tags: design heuristic
 author: Nick Tune
 ---

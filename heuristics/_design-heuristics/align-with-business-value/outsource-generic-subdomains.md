@@ -1,6 +1,5 @@
 ---
 title: Outsource generic subdomains
-layout: heuristic
 tags: design heuristic
 author: Nick Tune
 type: subheuristic

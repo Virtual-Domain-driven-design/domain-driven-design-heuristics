@@ -1,6 +1,5 @@
 ---
 title: Align with transactional boundaries
-layout: heuristic
 tags: design heuristic
 author: Nick Tune
 ---

@@ -1,6 +1,5 @@
 ---
 title: A bounded context should keep its internal details private
-layout: heuristic
 tags: design heuristic
 author: Mathias Verraes
 submitter: Kenny Baas-Schwegler

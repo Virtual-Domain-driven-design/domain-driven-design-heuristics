@@ -1,6 +1,5 @@
 ---
 title: Don't let the domain expert write events
-layout: heuristic
 tags: cognitive heuristics, eventstorming
 author: Krisztina Hirth
 submitter: Kenny Baas-Schwegler

@@ -1,6 +1,5 @@
 ---
 title: Align with historical domain boundaries
-layout: heuristic
 tags: design heuristic
 author: Nick Tune
 ---

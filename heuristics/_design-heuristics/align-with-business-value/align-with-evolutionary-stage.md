@@ -1,6 +1,5 @@
 ---
 title: Align with evolutionary stage (the Simon Wardley heuristic)
-layout: heuristic
 tags: design heuristic
 author: Nick Tune
 type: subheuristic

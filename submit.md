@@ -12,7 +12,6 @@ You can a add your own heuristics as a markdown file under the directory /heuris
 ``` markdown
 ---
 title:
-layout: heuristic
 tags:
 author:
 submitter: (optional)

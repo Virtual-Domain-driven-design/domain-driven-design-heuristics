@@ -1,6 +1,5 @@
 ---
 title: Don't outsource potential disruptive subdomains
-layout: heuristic
 tags: design heuristic
 author: Nick Tune
 type: subheuristic
