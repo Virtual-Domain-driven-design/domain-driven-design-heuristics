@@ -33,7 +33,7 @@ collections_dir: heuristics
 # Header nav
 navigation_header:
   Home: /
-  Cognitive Heuristics: /cognitive-heuristics/
+  Guiding Heuristics: /guiding-heuristics/
   Design Heuristics: /design-heuristics/
   Submit Heuristics: /submit/
 
@@ -44,8 +44,8 @@ navigation_footer:
 
 # 5. Collections
 collections:
-  cognitive-heuristics:
-    title: Cognitive Heuristics # Needed for Siteleaf
+  guiding-heuristics:
+    title: Guiding Heuristics # Needed for Siteleaf
     output: true
   design-heuristics:
     title: Design Heuristics # Needed for Siteleaf
@@ -53,7 +53,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "cognitive-heuristics"
+      type: "guiding-heuristics"
     values:
       layout: heuristic
   - scope:

@@ -11,17 +11,22 @@ You can a add your own heuristics as a markdown file under the directory /heuris
 
 ``` markdown
 ---
-title:
-tags:
-author:
+title: {The title of the heuristics}
+tags: {What you think it best to use}
+authors: {the authors}
 submitter: (optional)
 ---
+# Questions
+The question the heuritics answers
 
 # Short description
+A short description of the heuristics
 
 # Examples
+Give some examples
 
 # Context
+Give some context about the heuristics
 
 ```
 

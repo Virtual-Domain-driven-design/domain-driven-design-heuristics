@@ -3,6 +3,7 @@ title: Don't use a framework in your domain model
 tags: design heuristic
 author: Kenny Baas-Schwegler
 ---
+# Question
 
 # Short description
 

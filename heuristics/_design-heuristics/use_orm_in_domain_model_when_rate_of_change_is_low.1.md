@@ -3,6 +3,7 @@ title: Use ORM in your domain implementation when rate of change is low
 tags: design heuristic
 author: Kenny Baas-Schwegler
 ---
+# Question
 
 # Short description
 
