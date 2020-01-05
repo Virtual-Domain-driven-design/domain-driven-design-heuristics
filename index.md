@@ -1,10 +1,10 @@
 ---
-title: Domain-Driven Design Heuristics to use for software design
-excerpt: "DDDHeuristics is powered by the Virtual Domain-Driven Design community"
+title: Domain-Driven Design Heuristics
+excerpt: "Heuristics to share and use for designing software"
 layout: splash
 header:
   actions:
-    - label: "find out more!"
+    - label: "Part of VirtualDDD.com"
       url: "https://virtualddd.com"
 ---
 
