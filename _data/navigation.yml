@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Guiding Heuristics"
+    url: /guiding-heuristics/
+  - title: "Design Heuristics"
+    url: /design-heuristics/
+  - title: "Submit Heuristics"
+    url: /submit/
+  - title: "VirtualDDD"
+    url: https://virtualddd.com

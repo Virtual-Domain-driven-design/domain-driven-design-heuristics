@@ -1,9 +1,11 @@
 ---
-title: Let the domain expert talk and the rest write down events
+title: "Let the domain expert talk and the rest write down events"
+excerpt: "If only the domain experts has the knowledge, how can we transfer that knowledge the most effectivly and also challenge their assumption of the knowledge?"
 tags: guiding heuristics, eventstorming
-authors: Krisztina Hirth
+author: Krisztina Hirth
 submitter: Kenny Baas-Schwegler
 ---
+
 # Question
 
 If only the domain experts has the knowledge, how can we transfer that knowledge the most effectivly and also challenge their assumption of the knowledge?

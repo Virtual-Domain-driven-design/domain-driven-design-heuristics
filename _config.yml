@@ -1,65 +1,154 @@
-# Set theme
-theme: alembic-jekyll-theme
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
-# File excludes
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+theme: minimal-mistakes-jekyll
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
+
+# Site settings
+locale                   : "en-US"
+title                    : "Domain-Driven Design Heuristics"
+title_separator          : "-"
+subtitle                 : "Powered by virtualDDD.com"
+name                     : "Developed by Kenny Baas-Schwegler & Marco Heimeshoff"
+description              : "Helpfull heuristics to use in your software design"
+url                      : "https://dddheuristics.com"
+baseurl                  : ""
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/img/kandinsky.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/vddd_logo_small.png"
+masthead_title           : "Heuristics"
+#collections_dir: heuristics
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname            : "dddheuristics"
+
+# Social Sharing
+twitter:
+  username               :
+
+# Site Author
+author:
+  name             : "Virtual DDD"
+  avatar           : "/assets/images/blank-avatar.png"
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
 exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Outputting
+timezone: Europe/Amsterdam # Timezone for blog posts and alike
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+permalink: pretty
 
 # Set plugins
 plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-default-layout
-- jekyll-feed
-- jemoji
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
 
-# Site settings
-url: 'https://dddheuristics.com'
-baseurl: ''
-title: 'Domain-Driven Design Heuristics'
-description: 'Helpfull heuristics to use in your software design'
-permalink: pretty
-# logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
-timezone: Europe/Amsterdam # Timezone for blog posts and alike
-email: "kenny@baasie.com"
-disqus: "dddheuristics" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-collections_dir: heuristics
-
-# Header nav
-navigation_header:
-  Home: /
-  Guiding Heuristics: /guiding-heuristics/
-  Design Heuristics: /design-heuristics/
-  Submit Heuristics: /submit/
-
-# Footer nav
-navigation_footer:
-  Back to top: "#top"
-  
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
 
 # 5. Collections
 collections:
   guiding-heuristics:
-    title: Guiding Heuristics # Needed for Siteleaf
     output: true
+    permalink: /:collection/:path/
   design-heuristics:
-    title: Design Heuristics # Needed for Siteleaf
+    permalink: /:collection/:path/
     output: true
+
 defaults:
   - scope:
       path: ""
-      type: "guiding-heuristics"
     values:
-      layout: heuristic
+      layout: single
+      comments: true
+      header:
+        overlay_color: "#1a202c"
+        overlay_filter: "0.65"
+        overlay_image: /assets/images/kandinsky.jpg
   - scope:
-      path: ""
-      type: "design-heuristics"
+      type: guiding-heuristics
     values:
-      layout: heuristic
-
-
+      author_profile: false
+  - scope:
+      type: design-heuristics
+    values:
+      author_profile: false

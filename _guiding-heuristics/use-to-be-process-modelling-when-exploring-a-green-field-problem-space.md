@@ -1,5 +1,6 @@
 ---
-title: Use to-be process modelling when exploring a green field problem space
+title: "Use to-be process modelling when exploring a green field problem space"
+excerpt: "When shall I use process modelling eventstorming for as-is discovery of my problem space."
 tags: guiding heuristics, eventstorming
 authors: Kenny Baas-Schwegler, Marco Heimeshoff, Paul Rayner
 ---

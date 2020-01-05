@@ -1,6 +1,10 @@
 ---
-layout: page
 title: About this website
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/kandinsky.jpg
 ---
 
 This sites works with jekyll on a github repo netlify. You can fork the github repo [here](https://github.com/Baasie/domain-driven-design-heuristics) and create a pull request of your own heuristics.

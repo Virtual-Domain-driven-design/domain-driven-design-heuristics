@@ -1,6 +1,11 @@
 ---
-title: Welcome to Domain-Driven Design Heuristics
-layout: page
+title: Heuristics to use in your software design
+excerpt: "Powered bij de virtual Domain-Driven Design community"
+layout: splash
+header:
+  actions:
+    - label: "find out more!"
+      url: "https://virtualddd.com"
 ---
 
 > We all use heuristics (even if we haven’t articulated them to others) to discover, understand, explore, create, modify, or extend complex software systems. Billy Vaughn Koen, in Discussion of the Method: Conducting the Engineer’s Approach to Problem Solving, defines a heuristic as, “anything that provides a plausible aid or direction in the solution of a problem but is in the final analysis unjustified, incapable of justification, and potentially fallible.
@@ -17,5 +22,5 @@ If you want to submit your own heuristics go to [Submit Heuristics](/submit-heur
 If you have any questions please feel free to contact: kenny@baasie.com
 
 # Video's
-{% include video.html id="TP3xTZi_Qn8" title="Distilling Your Design Heuristics: A Report and a Challenge - Rebecca Wirfs-Brock - DDD Europe 2018" %}
-{% include video.html id="9ZgSz6xAfL8" title="Design Heuristics - Mathias Verraes - KanDDDinsky 2018" %}
+{% include video id="TP3xTZi_Qn8" provider="youtube" %}
+{% include video id="9ZgSz6xAfL8" provider="youtube" %}
