@@ -1,6 +1,6 @@
 ---
 title: Heuristics to use in your software design
-excerpt: "Powered bij de virtual Domain-Driven Design community"
+excerpt: "Powered bij the Virtual Domain-Driven Design community"
 layout: splash
 header:
   actions:
