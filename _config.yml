@@ -147,8 +147,8 @@ defaults:
   - scope:
       type: guiding-heuristics
     values:
-      author_profile: false
+      layout: heuristics
   - scope:
       type: design-heuristics
     values:
-      author_profile: false
+      layout: heuristics

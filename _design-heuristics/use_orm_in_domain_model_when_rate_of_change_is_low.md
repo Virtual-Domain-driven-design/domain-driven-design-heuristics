@@ -1,11 +1,9 @@
 ---
 title: Use ORM in your domain model when rate of change is low
+excerpt: "When can it be appropite to use ORM mapping in my domain model?"
 tags: design heuristic
 author: Kenny Baas-Schwegler
 ---
-# Question
-
-When can it be appropite to use ORM mapping in my domain model?
 
 # Short description
 

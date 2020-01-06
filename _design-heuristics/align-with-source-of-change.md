@@ -1,9 +1,9 @@
 ---
 title: Align with source of change
+excerpt: ""
 tags: design heuristic
 author: Nick Tune
 ---
-# Question
 
 # Short description
 

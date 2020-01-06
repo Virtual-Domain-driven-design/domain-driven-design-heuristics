@@ -1,9 +1,9 @@
 ---
-title: Keep your domain model decoupled from frameworks 
+title: Keep your domain model decoupled from frameworks
+excerpt: ""
 tags: design heuristic
 author: Kenny Baas-Schwegler
 ---
-# Question
 
 # Short description
 

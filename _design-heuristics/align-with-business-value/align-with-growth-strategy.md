@@ -1,10 +1,9 @@
 ---
 title: Align with growth strategy
+excerpt: ""
 tags: design heuristic
 author: Nick Tune
-type: subheuristic
 ---
-# Question
 
 # Short description
 

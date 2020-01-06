@@ -1,10 +1,9 @@
 ---
 title: Optimise for future potential
+excerpt: ""
 tags: design heuristic
 author: Nick Tune
-type: subheuristic
 ---
-# Question
 
 # Short description
 
