@@ -3,6 +3,7 @@ title: Isolate high-leverage shared capabilities
 excerpt: ""
 tags: design heuristic
 author: Nick Tune
+type: subheuristic
 ---
 
 # Short description

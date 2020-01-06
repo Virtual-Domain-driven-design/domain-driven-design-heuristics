@@ -3,6 +3,7 @@ title: Align with key revenue streams
 excerpt: ""
 tags: design heuristic
 author: Nick Tune
+type: subheuristic
 ---
 
 # Short description
