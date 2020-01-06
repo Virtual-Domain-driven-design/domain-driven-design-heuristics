@@ -9,7 +9,11 @@ header:
 
 This sites works with jekyll on a github repo netlify. You can fork the github repo [here](https://github.com/Baasie/domain-driven-design-heuristics) and create a pull request of your own heuristics.
 
-You can a add your own heuristics as a markdown file under the directory /heuristics and then the heuristic you want to submit.
+You can a add your own heuristics as a markdown file under the respective _XXXX-heuristics directory. 
+
+Now we know not everyone used github so alterntivly you can send your heuristic in an email to submit@dddheuristic.com.
+
+Use the following template when filling in your heuristic:
 
 ## Template
 
