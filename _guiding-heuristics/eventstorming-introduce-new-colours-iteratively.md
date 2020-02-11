@@ -1,5 +1,5 @@
 ---
-title: "Introduce new colours iteratively"
+title: "EventStorming: Introduce new colours iteratively"
 excerpt: "How do we introduce new colours during an EventStorming?"
 tags: guiding heuristics, eventstorming
 authors: Kenny Baas-Schwegler
