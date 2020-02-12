@@ -9,6 +9,8 @@ authors: Kenny Baas-Schwegler
 
 During an EventStorming session the group starts with a chaotic exploration of all the Domain Events. The next step is enforcing the timeline and create a consistent timeline. At this point new concept can pop up, like policies, actions, information, business rule (yellow). We can mark them as a hotspot, but we can also introduce the colours iteratively to the group. 
 
+![EventStorming colour coding pattern](/assets/eventstorming-colour-coding.jpg)
+
 # Examples
 
 1. When there is a discussion popping up about two domain events as outcomes from the same action, you need a business rule (yellow) in between.
