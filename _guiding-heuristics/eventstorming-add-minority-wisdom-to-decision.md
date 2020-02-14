@@ -1,6 +1,6 @@
 ---
 title: "EventStorming: Add minority wisdom to decision"
-excerpt: "How do we wrap up a dot voting after at a big picture EventStorming"
+excerpt: "How do we wrap up a dot voting after at a big picture EventStorming?"
 tags: guiding heuristics, eventstorming
 authors: Kenny Baas-Schwegler
 ---
