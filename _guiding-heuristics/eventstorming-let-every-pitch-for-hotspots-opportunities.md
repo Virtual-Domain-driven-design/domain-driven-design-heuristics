@@ -1,5 +1,5 @@
 ---
-title: "EventStorming: Let everyone pitch there biggest constraint"
+title: "EventStorming: Let everyone pitch there biggest constraint or opportunity"
 excerpt: "How can we lower political play and let everyone feel heard with dotvoting in a big picture EventStorming?"
 tags: guiding heuristics, eventstorming
 authors: Kenny Baas-Schwegler
