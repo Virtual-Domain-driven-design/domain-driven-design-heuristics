@@ -17,7 +17,7 @@ Domain-Driven Design Heuristics is a community driven site to document and discu
 * [Guiding Heuristics](/guiding-heuristics): heuristics to guide our use of other heuristics.
 * [Design Heuristics](/design-heuristics): heuristics to solve a particular problem at hand.
 
-If you want to submit your own heuristics go to [Submit Heuristics](/submit-heuristics) for explanations.
+If you want to submit your own heuristics go to [Submit Heuristics](/submit) for explanations.
 
 If you have any questions please feel free to contact: kenny@baasie.com
 
