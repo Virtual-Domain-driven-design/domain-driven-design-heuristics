@@ -14,6 +14,9 @@ Check-ins allow everyone to 'touch ground' on how they are doing and to share an
 
 # Examples
 
+1. Do this when you're facilitating a workshop and you want everyone to be fully (mentally) present and open up.
+2. You can also use this if you have a regular recurring (i.e. weekly) meeting.
+   
 
 # Context
 
