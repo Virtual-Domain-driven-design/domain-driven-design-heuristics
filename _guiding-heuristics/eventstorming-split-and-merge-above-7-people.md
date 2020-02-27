@@ -12,7 +12,7 @@ Have a maximum of 7 people for a process or a design leven EventStoming. We want
 # Examples
 
 1. Doing a process or design level EventStorming.
-2. With a big picture EventStroming we never split and merge.
+2. With a big picture EventStorming we never split and merge.
 
 # Context
 
