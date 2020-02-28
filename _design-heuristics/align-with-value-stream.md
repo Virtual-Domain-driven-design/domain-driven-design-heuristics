@@ -11,7 +11,7 @@ We could align boundaries in sociotechnical systems to support the value stream 
 
 ## Value stream
 
-> _*“If you can’t describe what you are doing as a process, you don’t know what you’re doing.”*_ - William Edwards Deming
+> _“If you can’t describe what you are doing as a process, you don’t know what you’re doing.”_ - William Edwards Deming
 
 ![Value stream](/assets/images/value-stream.png)
 
@@ -34,7 +34,7 @@ For instance, we can see here the same forces in place that we have seen in Cohe
 * Too much Cohesion: Keeping every task in one big bounded context would mean entangling the system, making it hard to change and scale, similar to the God class and Divergent Change code smells. 
 * Too much Coupling: Splitting every task into its own bounded context would mean moving that complexity over the communication between them, generating an explosion of dependencies. Furthermore, the way to achieving independence is not free in a SOA environment; the infrastructural boundary must be created, deployed, maintained and monitored. 
 
->_*“You have to choose where to pay the price of complexity. Because DDD is about reducing complexity in the software, the outcome is that you pay a price with respect to maintaining duplicate models and possibly duplicate data.”*_ - Eric Evans
+>_“You have to choose where to pay the price of complexity. Because DDD is about reducing complexity in the software, the outcome is that you pay a price with respect to maintaining duplicate models and possibly duplicate data.”_ - Eric Evans
 
 ![Bounded contexts and teams](/assets/images/bounded-context.png)
 
@@ -46,9 +46,7 @@ For example, in an ecommerce company selling physical items online, the value st
 * Assessing and interacting to handle the quantity in stock 
 * Creating and managing the mechanism for customers to browse the catalogue, place an order and pay, dispatch the items
 
-In parallel, there’s a marketing system to place advertisements, and after the sale is done, there will be some customer care functionality. 
-
-This and all of the above are activities of the value stream. They can happen in parallel, and the stream might be somewhat complicated, but they can be carried on independently of one another. However, they have dependencies; for example, the system in charge of letting customers place an order obviously needs to know the stock of the available items – they are interconnected.
+In parallel, there’s a marketing system to place advertisements, and after the sale is done, there will be some customer care functionality. This and all of the above are activities of the value stream. They can happen in parallel, and the stream might be somewhat complicated, but they can be carried on independently of one another. However, they have dependencies; for example, the system in charge of letting customers place an order obviously needs to know the stock of the available items – they are interconnected.
 
 # Context
 
