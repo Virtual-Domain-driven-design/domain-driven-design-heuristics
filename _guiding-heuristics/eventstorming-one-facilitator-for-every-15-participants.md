@@ -7,7 +7,7 @@ authors: Tobias Goeschel
 
 # Short description
 
-For a Big Picture EventStorming, we can have around 20-30+ people per wall - but even an experienced facilitator will have a hard time noticing subtleties, body language and tonal nuances, when there are more than 2-3 conversations going on at the same time. This limits the group size per facilitator to ~15. For larger groups, it is advisable to add co-facilitators to help with the things happening behind your back. 
+For a Big Picture EventStorming, we can have around 20-30+ people per wall - but even an experienced facilitator will have a hard time noticing subtleties, body language and tonal nuances when more than 2-3 conversations are going on at the same time. Limit the group size per facilitator to ~15. For larger groups, it is advisable to add co-facilitators to help with the things happening behind your back. 
 
 # Examples
 
