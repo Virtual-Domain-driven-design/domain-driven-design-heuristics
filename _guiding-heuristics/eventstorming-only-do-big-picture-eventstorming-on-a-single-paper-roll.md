@@ -1,5 +1,5 @@
 ---
-title: "EventStorming: Do Big Picture EventStorming on a single paper roll"
+title: "EventStorming: Do big picture EventStorming on a single paper roll"
 excerpt: "How many people can we have during an EventStorming?"
 tags: guiding heuristics, eventstorming
 authors: Kenny Baas-Schwegler
@@ -11,4 +11,4 @@ For a Big Picture EventStorming let all the participants share their domain even
 
 # Summary of the solution
 
-With a Big Picture EventStorming we want all participants to share their domain events on a single same paper roll. Usually we have around 20-30+ people as long as their is enough [facilitators](eventstorming-one-facilitator-for-every-15-participants.md). Which is different from a process or design level EventStroming where we [split and merge](eventstorming-split-and-merge-above-7-people.md) above 7 people.
+With a Big Picture EventStorming we want all participants to share their domain events on a single same paper roll. Usually we have around 20-30+ people as long as their is enough [facilitators](./eventstorming-one-facilitator-for-every-15-participants.md). Which is different from a process or design level EventStroming where we [split and merge](./eventstorming-split-and-merge-above-7-people.md) above 7 people.
