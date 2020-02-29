@@ -23,9 +23,11 @@ If you have any questions please feel free to contact: kenny@baasie.com
 
 # Articles
 
-* [Writing, Remembering, and Sharing Design Heuristics by Rebecca Wirfs-Brock](http://wirfs-brock.com/blog/2019/04/12/writing/)  
-* [Architecture Clues: Heuristics, Part i. SCARS by Ruth Malan](https://www.linkedin.com/pulse/architecture-clues-heuristics-part-i-scars-ruth-malan/)  
-* [Architecture Clues: Heuristics, Part ii. Decisions and Change by Ruth Malan](https://www.linkedin.com/pulse/architecture-clues-heuristics-part-ii-decisions-change-ruth-malan/)
+* [Growing Your Personal Design Heuristics Toolkit](http://wirfs-brock.com/blog/2019/03/20/growing-your-personal-design-heuristics/) by Rebecca Wirfs-Brock
+* [What do typical design heuristics look like?](http://wirfs-brock.com/blog/2019/04/04/what-do-typical-design-heuristics-look/) by Rebecca Wirfs-Brock
+* [Writing, Remembering, and Sharing Design Heuristics](http://wirfs-brock.com/blog/2019/04/12/writing/) by Rebecca Wirfs-Brock
+* [Architecture Clues: Heuristics, Part i. SCARS](https://www.linkedin.com/pulse/architecture-clues-heuristics-part-i-scars-ruth-malan/) by Ruth Malan
+* [Architecture Clues: Heuristics, Part ii. Decisions and Change](https://www.linkedin.com/pulse/architecture-clues-heuristics-part-ii-decisions-change-ruth-malan/) by Ruth Malan
 
 
 # Video's
