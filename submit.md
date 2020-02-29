@@ -9,7 +9,7 @@ header:
 
 # How it works
 
-This sites works with jekyll on a github repo powered by netlify. You can fork the github repo [here](https://github.com/Baasie/domain-driven-design-heuristics) and create a pull request of your own heuristics.
+This sites works with jekyll trough a github repo linked with netlify. You can fork the github repo [here](https://github.com/Baasie/domain-driven-design-heuristics) and create a pull request of your own heuristics.
 
 To work with Jekyll check out the [Jekyll Site](https://jekyllrb.com/)
 
@@ -17,11 +17,11 @@ To work with Jekyll check out the [Jekyll Site](https://jekyllrb.com/)
 
 You can add your own heuristics as a markdown file under the respective _XXXX-heuristics directory. 
 
-Now we know not everyone uses github so alterntivly you can send your heuristic in an email to submit@dddheuristic.com.
+Not everyone uses github so alterntivly you can send your heuristic in an email to submit@dddheuristic.com.
 
 # Writing, Remembering, and Sharing Design Heuristics
 
-For more information about how to write Heuristics, please read Rebecca her article [Writing, Remembering, and Sharing Design Heuristics by Rebecca Wirfs-Brock](http://wirfs-brock.com/blog/2019/04/12/writing/)
+For more information please read about how to write Heuristics Rebecca her article [Writing, Remembering, and Sharing Design Heuristics](http://wirfs-brock.com/blog/2019/04/12/writing/)
 
 There are some contraint when submitting a heuristic, you need to use at least the follow template:
 
@@ -77,8 +77,6 @@ A description of the heuristics
 The solution of the heuristic 
 
 ```
-
-
 
 # Contribute
 
