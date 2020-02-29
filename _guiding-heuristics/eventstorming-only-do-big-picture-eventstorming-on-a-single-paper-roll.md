@@ -7,8 +7,8 @@ authors: Kenny Baas-Schwegler
 
 # Description
 
-For a Big Picture EventStorming let all the participants share their domain events on the same paper roll.
+For a Big Picture EventStorming let all the participants share their domain events on a single paper roll.
 
 # Summary of the solution
 
-With a Big Picture EventStorming we want all participants to share their domain events on the same paper roll. We can have 20-30+ people as long as there is enough [facilitators](eventstorming-one-facilitator-for-every-15-participants.md). Which is different from a process or design level EventStroming where we can [split and merge](eventstorming-split-and-merge-above-7-people.md).
+With a Big Picture EventStorming we want all participants to share their domain events on a single same paper roll. Usually we have around 20-30+ people as long as their is enough [facilitators](eventstorming-one-facilitator-for-every-15-participants.md). Which is different from a process or design level EventStroming where we [split and merge](eventstorming-split-and-merge-above-7-people.md) above 7 people.
