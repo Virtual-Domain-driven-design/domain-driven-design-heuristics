@@ -6,8 +6,6 @@ sidebar:
   nav: "heuristics"
 ---
 
-# Heuristics
-
 > anything that provides a plausible aid or direction in the solution of a problem but is in the final analysis unjustified, incapable of justification, and potentially fallible.
 >
 > -Billy Vaughn Koen
