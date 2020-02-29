@@ -2,7 +2,7 @@
 title: "EventStorming: Make a ceremony of throwing things away"
 excerpt: "How do we make people comfortable with iterative modeling?"
 tags: guiding heuristics, eventstorming
-authors: Kenny Baas-Schwegler
+authors: Tobias Goeschel
 ---
 
 # Short description
