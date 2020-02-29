@@ -6,7 +6,10 @@ layout: single
 
 {% if page.submitter %}</br><strong><i class="fas fa-user" aria-hidden="true"></i> Submitter:</strong> {{page.submitter}} {% endif %}
 </br>
-<i class="fas fa-tags" aria-hidden="true"></i> {{page.tags}}
+<i class="fas fa-tags" aria-hidden="true"></i> 
+{% for tag in page.tags %}
+    {{ tag }}
+{% endfor %}
 
 </p>
 
