@@ -1,7 +1,7 @@
 ---
 title: "EventStorming: Only move or remove stickies when discussed with the writer"
 excerpt: "Who can move stickies around?"
-tags: guiding heuristics, eventstorming
+tags: guiding-heuristics eventstorming
 authors: Kenny Baas-Schwegler
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Explore language: change language on purpose to change how people think."
 excerpt: "How can we battle confirmation bias while designing and modelling?"
-tags: guiding heuristics, eventstorming, collaborative modelling
+tags: guiding-heuristics eventstorming collaborative-modelling
 authors: Kenny Baas-Schwegler
 ---
 

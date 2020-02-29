@@ -1,7 +1,7 @@
 ---
 title: "EventStorming: Play by the colour coding pattern"
 excerpt: "How do we introduce new colours during an EventStorming?"
-tags: guiding heuristics, eventstorming
+tags: guiding-heuristics eventstorming
 authors: Kenny Baas-Schwegler
 ---
 

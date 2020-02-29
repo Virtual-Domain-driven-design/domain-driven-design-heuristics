@@ -1,7 +1,7 @@
 ---
 title: "EventStorming: One (co-)facilitator for every 15 participants"
 excerpt: "How many conversations can a single facilitator keep track of?"
-tags: guiding heuristics, eventstorming
+tags: guiding-heuristics eventstorming
 authors: Tobias Goeschel
 ---
 

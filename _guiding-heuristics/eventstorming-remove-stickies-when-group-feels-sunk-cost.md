@@ -1,7 +1,7 @@
 ---
 title: "EventStorming: Lead by example and remove stickies as facilitator"
 excerpt: "Who removes stickies during an EventStorming?"
-tags: guiding heuristics, eventstorming
+tags: guiding-heuristics eventstorming
 authors: Kenny Baas-Schwegler
 ---
 

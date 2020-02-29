@@ -1,7 +1,7 @@
 ---
 title: "EventStorming: Split and merge above 7 people on process and design level"
 excerpt: "How many people can we have during an EventStorming?"
-tags: guiding heuristics, eventstorming
+tags: guiding-heuristics eventstorming
 authors: Kenny Baas-Schwegler
 ---
 

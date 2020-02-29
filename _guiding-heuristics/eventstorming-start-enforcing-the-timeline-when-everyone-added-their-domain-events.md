@@ -1,7 +1,7 @@
 ---
 title: "EventStorming: Start enforcing the timeline when everyone added their domain events"
 excerpt: "When do we start to structure the EventStorming by enforcing the timeline"
-tags: guiding heuristics, eventstorming
+tags: guiding-heuristics eventstorming
 authors: Kenny Baas-Schwegler
 ---
 

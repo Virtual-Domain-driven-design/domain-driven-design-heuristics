@@ -1,7 +1,7 @@
 ---
 title: Align with rate of change
 excerpt: ""
-tags: design heuristic
+tags: design-heuristics
 author: Nick Tune
 ---
 

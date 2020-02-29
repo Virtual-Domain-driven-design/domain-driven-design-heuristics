@@ -1,7 +1,7 @@
 ---
 title: "Start a workshop with a check-in"
 excerpt: "How can we start a workshop so that people are present, feel safe and can say what needs to be said?"
-tags: guiding heuristics, eventstorming, workshops
+tags: guiding-heuristics eventstorming workshops colleborative-modelling
 authors: Pim Smeets
 ---
 

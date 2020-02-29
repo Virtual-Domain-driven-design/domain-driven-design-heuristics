@@ -1,7 +1,7 @@
 ---
 title: "EventStorming: Do big picture EventStorming on a single paper roll"
 excerpt: "How many people can we have during an EventStorming?"
-tags: guiding heuristics, eventstorming
+tags: guiding-heuristics eventstorming
 authors: Kenny Baas-Schwegler
 ---
 

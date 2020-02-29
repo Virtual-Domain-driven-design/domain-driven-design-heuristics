@@ -1,7 +1,7 @@
 ---
 title: "EventStorming: Split and merge during converging discussions"
 excerpt: "How do we visualise competing ideas during an EventStorming?"
-tags: guiding heuristics, eventstorming
+tags: guiding-heuristics eventstorming
 authors: Kenny Baas-Schwegler
 ---
 

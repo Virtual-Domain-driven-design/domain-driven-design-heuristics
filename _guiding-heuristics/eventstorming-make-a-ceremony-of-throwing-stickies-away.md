@@ -1,7 +1,7 @@
 ---
 title: "EventStorming: Make a ceremony of throwing things away"
 excerpt: "How do we make people comfortable with iterative modelling?"
-tags: guiding heuristics, eventstorming
+tags: guiding-heuristics eventstorming
 authors: Tobias Goeschel
 ---
 

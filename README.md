@@ -26,7 +26,7 @@ There are some contraint when submitting a heuristic, you need to use at least t
 ---
 title: {The title of the heuristic}
 excerpt: {Summary of Problem or the question that the heuristic solves}
-tags: {tags seperated by comma, fill in what you think is best}
+tags: {tags seperated by space, fill in what you think is best}
 authors: {the authors seperated by comma}
 submitter: {The submitter} (optional)
 ---
@@ -41,8 +41,8 @@ You can fill in the rest the way you like it, but here are two examples from Reb
 ---
 title: {The title of the heuristic}
 excerpt: {Summary of Problem or the question that the heuristic solves}
-tags: {What you think is best to use, see other examples}
-authors: {the authors}
+tags: {tags seperated by space, fill in what you think is best}
+authors: {the authors seperated by comma}
 submitter: {The submitter} (optional)
 ---
 
@@ -60,8 +60,8 @@ Give some examples
 ---
 title: {The title of the heuristic}
 excerpt: {Summary of Problem or the question that the heuristic solves}
-tags: {What you think is best to use, see other examples}
-authors: {the authors}
+tags: {tags seperated by space, fill in what you think is best}
+authors: {the authors seperated by comma}
 submitter: {The submitter} (optional)
 ---
 

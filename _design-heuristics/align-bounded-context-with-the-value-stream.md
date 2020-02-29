@@ -1,7 +1,7 @@
 ---
 title: Align bounded context with the value stream
 excerpt: "How do I design Bounded Contexts?"
-tags: design heuristic, bounded context, socio-technical systems
+tags: design-heuristics bounded-context socio-technical-systems
 author: Marco Consolaro
 ---
 

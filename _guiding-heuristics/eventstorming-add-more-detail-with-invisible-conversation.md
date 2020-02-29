@@ -1,7 +1,7 @@
 ---
 title: "EventStorming: Add more details with invisible conversations."
 excerpt: "When do we have enough details in an EventStorming?"
-tags: guiding heuristics, eventstorming
+tags: guiding-heuristics eventstorming
 authors: Kenny Baas-Schwegler
 ---
 
