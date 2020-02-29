@@ -133,6 +133,9 @@ collections:
   design-heuristics:
     permalink: /:collection/:path/
     output: true
+  value-based-heuristics:
+    permalink: /:collection/:path/
+    output: true
 
 defaults:
   - scope:
@@ -148,7 +151,17 @@ defaults:
       type: guiding-heuristics
     values:
       layout: heuristics
+      sidebar:
+        nav: "heuristics"
   - scope:
       type: design-heuristics
     values:
       layout: heuristics
+      sidebar:
+        nav: "heuristics"
+  - scope:
+      type: value-based-heuristics
+    values:
+      layout: heuristics
+      sidebar:
+        nav: "heuristics"

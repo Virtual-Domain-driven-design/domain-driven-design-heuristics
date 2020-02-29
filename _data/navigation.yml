@@ -1,11 +1,23 @@
 main:
   - title: "Home"
     url: /
-  - title: "Guiding Heuristics"
-    url: /guiding-heuristics/
-  - title: "Design Heuristics"
-    url: /design-heuristics/
+  - title: "Heuristics"
+    url: /heuristics/ 
   - title: "Submit Heuristics"
     url: /submit/
   - title: "VirtualDDD"
     url: https://virtualddd.com
+
+heuristics:
+  - title: "Design Heuristics"
+    children:
+      - title: "Heuristics"
+        url: /design-heuristics/
+  - title: "Guiding Heuristics"
+    children:
+      - title: "Heuristics"
+        url: /guiding-heuristics/
+  - title: "Value-based Heuristics"
+    children:
+      - title: "Heuristics"
+        url: /value-based-heuristics/
