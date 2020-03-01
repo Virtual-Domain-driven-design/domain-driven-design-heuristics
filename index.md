@@ -12,13 +12,16 @@ header:
 >
 > -Rebecca Wirfs-Brock
 
-Domain-Driven Design Heuristics is a community driven site to document and discuss about Design Heuristics. For now we divide into two different heuristics:
+Domain-Driven Design Heuristics is a community driven site to document and discuss about Design Heuristics. For now we divide into three different types of heuristics:
 
 * [Design Heuristics](/design-heuristics): Heuristics we use to solve a specific problem;
 * [Guiding Heuristics](/guiding-heuristics): Heuristics that guide our use of other heuristics (meta-heuristics, if you will);
 * [Value-based Heuristics](value-based-heuristics): Heuristics that determine our attitude and behavior towards design or the world and the way we work;
 
 Checkout the [Heuristics](/heuristics) tab.
+
+All the information on this site is [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/)   
+![CC BY-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 # Submit
 
