@@ -1,6 +1,6 @@
 ---
 title: Heuristics
-layout: single
+layout: category
 permalink: /heuristics/
 sidebar:
   nav: "heuristics"
@@ -17,6 +17,6 @@ Billy describes three different type of heuristics:
 3. Heuristics that determine our attitude and behavior towards design or the world and the way we work.
 
 On this site you will find these three different heuristics as collections under:
-* [Design](design-heuristics.md) 
-* [Guiding](guiding-heuristics.md) 
-* [Value-based heuristics](value-based-heuristics.md)
+* [Design](./../design-heuristics/) 
+* [Guiding](./../guiding-heuristics/) 
+* [Value-based heuristics](./../value-based-heuristics/)
