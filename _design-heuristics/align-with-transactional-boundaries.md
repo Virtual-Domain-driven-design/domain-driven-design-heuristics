@@ -2,7 +2,7 @@
 title: Align with transactional boundaries
 excerpt: ""
 tags: design-heuristics
-author: Nick Tune
+authors: Nick Tune
 ---
 
 # Short description

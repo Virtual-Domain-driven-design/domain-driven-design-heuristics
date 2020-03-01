@@ -2,7 +2,7 @@
 title: Align with business value
 excerpt: ""
 tags: design-heuristics
-author: Nick Tune
+authors: Nick Tune
 ---
 
 # Short description

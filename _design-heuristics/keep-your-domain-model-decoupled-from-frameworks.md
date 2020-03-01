@@ -2,7 +2,7 @@
 title: Keep your domain model decoupled from frameworks
 excerpt: "How can I let my domain model be decoupled from technical complexity?"
 tags: design-heuristics
-author: Kenny Baas-Schwegler
+authors: Kenny Baas-Schwegler
 ---
 
 # Short description

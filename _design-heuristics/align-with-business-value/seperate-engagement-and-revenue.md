@@ -2,7 +2,7 @@
 title: Separate engagement and revenue
 excerpt: ""
 tags: design-heuristics
-author: Nick Tune
+authors: Nick Tune
 type: subheuristic
 ---
 

@@ -2,7 +2,7 @@
 title: Align with investment strategy
 excerpt: ""
 tags: design-heuristics
-author: Nick Tune
+authors: Nick Tune
 type: subheuristic
 ---
 

@@ -2,7 +2,7 @@
 title: Build software for disruptive generic subdomains yourself
 excerpt: "When should we write software for generic domain ourself?"
 tags: design-heuristics
-author: Nick Tune
+authors: Nick Tune
 type: subheuristic
 ---
 

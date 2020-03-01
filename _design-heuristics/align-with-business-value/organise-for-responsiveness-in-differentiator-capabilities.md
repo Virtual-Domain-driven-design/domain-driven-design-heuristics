@@ -2,7 +2,7 @@
 title: Organise for responsiveness in differentiator capabilities
 excerpt: ""
 tags: design-heuristics
-author: Nick Tune
+authors: Nick Tune
 type: subheuristic
 ---
 
