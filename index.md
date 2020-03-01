@@ -14,12 +14,17 @@ header:
 
 Domain-Driven Design Heuristics is a community driven site to document and discuss about Design Heuristics. For now we divide into two different heuristics:
 
-* [Guiding Heuristics](/guiding-heuristics): heuristics to guide our use of other heuristics.
-* [Design Heuristics](/design-heuristics): heuristics to solve a particular problem at hand.
+* [Design Heuristics](/design-heuristics): Heuristics we use to solve a specific problem;
+* [Guiding Heuristics](/guiding-heuristics): Heuristics that guide our use of other heuristics (meta-heuristics, if you will);
+* [Value-based Heuristics](value-based-heuristics): Heuristics that determine our attitude and behavior towards design or the world and the way we work;
+
+Checkout the [Heuristics](/heuristics) tab.
+
+# Submit
 
 If you want to submit your own heuristics go to [Submit Heuristics](/submit) for explanations.
 
-If you have any questions please feel free to contact: kenny@baasie.com
+If you have any questions please feel free to contact us trough email: submit@dddheuristic.com
 
 # Articles
 
