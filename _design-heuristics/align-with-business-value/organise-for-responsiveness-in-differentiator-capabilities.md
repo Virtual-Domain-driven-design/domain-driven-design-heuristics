@@ -1,5 +1,5 @@
 ---
-title: Organise for responsiveness in differentiator capabilities
+title: "Organise for responsiveness in differentiator capabilities"
 excerpt: ""
 tags: design-heuristics
 authors: Nick Tune

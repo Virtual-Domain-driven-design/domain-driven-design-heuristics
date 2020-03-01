@@ -1,5 +1,5 @@
 ---
-title: Align with source of change
+title: "Align with source of change"
 excerpt: ""
 tags: design-heuristics
 authors: Nick Tune

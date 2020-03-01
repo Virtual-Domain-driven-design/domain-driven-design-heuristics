@@ -1,5 +1,5 @@
 ---
-title: Optimise for future potential
+title: "Optimise for future potential"
 excerpt: ""
 tags: design-heuristics
 authors: Nick Tune

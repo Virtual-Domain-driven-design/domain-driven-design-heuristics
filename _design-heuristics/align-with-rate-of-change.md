@@ -1,5 +1,5 @@
 ---
-title: Align with rate of change
+title: "Align with rate of change"
 excerpt: ""
 tags: design-heuristics
 authors: Nick Tune

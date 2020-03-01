@@ -1,5 +1,5 @@
 ---
-title: A bounded context should keep its internal details private
+title: "A bounded context should keep its internal details private"
 excerpt: ""
 tags: design-heuristics
 authors: Mathias Verraes

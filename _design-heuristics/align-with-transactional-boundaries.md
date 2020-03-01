@@ -1,5 +1,5 @@
 ---
-title: Align with transactional boundaries
+title: "Align with transactional boundaries"
 excerpt: ""
 tags: design-heuristics
 authors: Nick Tune

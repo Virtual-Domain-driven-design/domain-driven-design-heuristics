@@ -1,5 +1,5 @@
 ---
-title: Align with evolutionary stage (the Simon Wardley heuristic)
+title: "Align with evolutionary stage (the Simon Wardley heuristic)"
 excerpt: ""
 tags: design-heuristics
 authors: Nick Tune

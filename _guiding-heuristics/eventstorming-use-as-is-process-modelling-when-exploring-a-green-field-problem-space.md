@@ -2,7 +2,10 @@
 title: "EventStorming: Use as-is process modelling when exploring a brown field problem space"
 excerpt: "When shall I use process modelling eventstorming for as-is discovery of my problem space?"
 tags: guiding-heuristics eventstorming
-authors: Kenny Baas-Schwegler, Marco Heimeshoff, Paul Rayner
+authors: 
+    - Kenny Baas-Schwegler
+    - Marco Heimeshoff
+    - Paul Rayner
 ---
 
 # Description

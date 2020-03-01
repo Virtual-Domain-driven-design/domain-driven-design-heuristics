@@ -1,8 +1,10 @@
 ---
-title: Design for replayability
+title: "Design for replayability"
 excerpt: ""
 tags: design-heuristic
-authors: Nick Tune & Kacper Gunia
+authors: 
+    - Nick Tune
+    - Kacper Gunia
 ---
 
 # Short description

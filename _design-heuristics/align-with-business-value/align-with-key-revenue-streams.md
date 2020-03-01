@@ -1,5 +1,5 @@
 ---
-title: Align with key revenue streams
+title: "Align with key revenue streams"
 excerpt: ""
 tags: design-heuristics
 authors: Nick Tune

@@ -1,5 +1,5 @@
 ---
-title: Align with growth strategy
+title: "Align with growth strategy"
 excerpt: ""
 tags: design-heuristics
 authors: Nick Tune

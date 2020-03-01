@@ -1,5 +1,5 @@
 ---
-title: Align with historical domain boundaries
+title: "Align with historical domain boundaries"
 excerpt: ""
 tags: design-heuristics
 authors: Nick Tune

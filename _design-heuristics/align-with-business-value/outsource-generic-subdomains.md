@@ -1,5 +1,5 @@
 ---
-title: Outsource generic subdomains
+title: "Outsource generic subdomains"
 excerpt: "Should we write software for generic subdomains ourself?"
 tags: design-heuristics
 authors: Nick Tune

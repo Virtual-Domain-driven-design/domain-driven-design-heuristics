@@ -1,5 +1,5 @@
 ---
-title: Align with investment strategy
+title: "Align with investment strategy"
 excerpt: ""
 tags: design-heuristics
 authors: Nick Tune

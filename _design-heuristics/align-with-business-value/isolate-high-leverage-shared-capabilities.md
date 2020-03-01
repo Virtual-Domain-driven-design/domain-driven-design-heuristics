@@ -1,5 +1,5 @@
 ---
-title: Isolate high-leverage shared capabilities
+title: "Isolate high-leverage shared capabilities"
 excerpt: ""
 tags: design-heuristics
 authors: Nick Tune

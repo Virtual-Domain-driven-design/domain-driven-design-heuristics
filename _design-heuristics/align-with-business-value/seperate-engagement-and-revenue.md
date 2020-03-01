@@ -1,5 +1,5 @@
 ---
-title: Separate engagement and revenue
+title: "Separate engagement and revenue"
 excerpt: ""
 tags: design-heuristics
 authors: Nick Tune

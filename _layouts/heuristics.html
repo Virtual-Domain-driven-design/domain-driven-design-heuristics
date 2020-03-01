@@ -2,7 +2,19 @@
 layout: single
 ---
 
-<strong><i class="fas fa-fw fa-users" aria-hidden="true"></i> Author(s):</strong> {{page.authors}} 
+{% if page.authors.first %}
+    <strong><i class="fas fa-fw fa-users" aria-hidden="true"></i> Authors:</strong>
+    {% assign last_author = page.authors | last %}
+    {% for author in page.authors %}
+        {{ author }}
+        {%- if author != last_author -%}
+            ,
+        {%- endif -%}
+    {% endfor %}
+{% else %}
+    <strong><i class="fas fa-fw fa-users" aria-hidden="true"></i> Author:</strong>
+    {{page.authors}}
+{% endif %}
 
 {% if page.submitter %}</br><strong><i class="fas fa-user" aria-hidden="true"></i> Submitter:</strong> {{page.submitter}} {% endif %}
 </br>
