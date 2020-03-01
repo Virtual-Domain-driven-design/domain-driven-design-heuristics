@@ -1,9 +1,8 @@
 ---
 title: "Optimise for future potential"
 excerpt: ""
-tags: design-heuristics
+tags: design-heuristics align-with-business-value
 authors: Nick Tune
-type: subheuristic
 ---
 
 # Short description

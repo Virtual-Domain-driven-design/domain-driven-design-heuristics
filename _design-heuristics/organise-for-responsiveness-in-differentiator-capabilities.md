@@ -1,14 +1,13 @@
 ---
-title: "Align with investment strategy"
+title: "Organise for responsiveness in differentiator capabilities"
 excerpt: ""
-tags: design-heuristics
+tags: design-heuristics align-with-business-value
 authors: Nick Tune
-type: subheuristic
 ---
 
 # Short description
 
-Align boundries with the part of the system you want to invest the most time and improvements in the future.
+TBD
 
 # Examples
 

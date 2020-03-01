@@ -1,9 +1,8 @@
 ---
 title: "Align with growth strategy"
 excerpt: ""
-tags: design-heuristics
+tags: design-heuristics align-with-business-value
 authors: Nick Tune
-type: subheuristic
 ---
 
 # Short description

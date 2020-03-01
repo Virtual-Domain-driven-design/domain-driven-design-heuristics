@@ -1,16 +1,16 @@
 ---
-title: "Align with key revenue streams"
+title: "Align with evolutionary stage (the Simon Wardley heuristic)"
 excerpt: ""
-tags: design-heuristics
+tags: design-heuristics align-with-business-value
 authors: Nick Tune
-type: subheuristic
 ---
 
 # Short description
 
-Create bounded context for the parts of the system which currently generate the most money
+TBD
 
 # Examples
+
 
 # Context
 

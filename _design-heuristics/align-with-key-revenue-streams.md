@@ -1,14 +1,13 @@
 ---
-title: "Organise for responsiveness in differentiator capabilities"
+title: "Align with key revenue streams"
 excerpt: ""
-tags: design-heuristics
+tags: design-heuristics align-with-business-value
 authors: Nick Tune
-type: subheuristic
 ---
 
 # Short description
 
-TBD
+Create bounded context for the parts of the system which currently generate the most money
 
 # Examples
 

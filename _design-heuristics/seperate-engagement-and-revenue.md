@@ -1,9 +1,8 @@
 ---
 title: "Separate engagement and revenue"
 excerpt: ""
-tags: design-heuristics
+tags: design-heuristics align-with-business-value
 authors: Nick Tune
-type: subheuristic
 ---
 
 # Short description

@@ -1,17 +1,15 @@
 ---
-title: "Align with evolutionary stage (the Simon Wardley heuristic)"
+title: "Align with investment strategy"
 excerpt: ""
-tags: design-heuristics
+tags: design-heuristics align-with-business-value
 authors: Nick Tune
-type: subheuristic
 ---
 
 # Short description
 
-TBD
+Align boundries with the part of the system you want to invest the most time and improvements in the future.
 
 # Examples
-
 
 # Context
 
