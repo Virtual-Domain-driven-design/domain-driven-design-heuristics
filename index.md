@@ -20,7 +20,9 @@ Domain-Driven Design Heuristics is a community driven site to document and discu
 
 Checkout the [Heuristics](/heuristics) tab.
 
-All the information on this site is [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/)   
+# Using the information
+
+All the information on this site is [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/), please remix, adapt, and build upon the work on this site, even for commercial purposes, as long as you credit the authors and submitter and license your new creations under the identical terms.
 ![CC BY-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 # Submit
