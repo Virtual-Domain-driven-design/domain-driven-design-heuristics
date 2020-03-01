@@ -11,13 +11,17 @@ main:
 heuristics:
   - title: "Design Heuristics"
     children:
-      - title: "Heuristics"
+      - title: "All"
         url: /design-heuristics/
+      - title: "Align with business value"
+        url: /align-with-business-value/
   - title: "Guiding Heuristics"
     children:
-      - title: "Heuristics"
+      - title: "All"
         url: /guiding-heuristics/
+      - title: "EventStorming"
+        url: /eventstorming/
   - title: "Value-based Heuristics"
     children:
-      - title: "Heuristics"
+      - title: "All"
         url: /value-based-heuristics/
