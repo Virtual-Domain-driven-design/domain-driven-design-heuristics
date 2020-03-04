@@ -1,5 +1,5 @@
 ---
-title: "Example Mapping: Split business rule above three examples"
+title: "Example Mapping: Split business rule when an example has more than one check"
 excerpt: "When can we discover more business rules during example mapping?"
 tags: guiding-heuristics example-mapping
 authors: Kenny Baas-Schwegler
@@ -7,7 +7,7 @@ authors: Kenny Baas-Schwegler
 
 # Short description
 
-When a rule get's more than three example, split up the rule into two seperate rules.
+When and example needs to check multiple states, it split up the business rule.
 
 # Context
 
