@@ -1,7 +1,7 @@
 ---
 title: "Example Mapping: Split business rule above three examples"
 excerpt: "When can we discover more business rules during example mapping"
-tags: guiding-heuristics example mapping
+tags: guiding-heuristics example-mapping
 authors: Kenny Baas-Schwegler
 ---
 
