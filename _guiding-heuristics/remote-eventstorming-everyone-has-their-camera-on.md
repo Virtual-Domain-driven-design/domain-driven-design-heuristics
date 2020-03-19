@@ -1,7 +1,7 @@
 ---
 title: "Remote EventStorming: Everyone has their camera on with split screens"
 excerpt: "How do we create a safe remote environment?"
-tags: guiding-heuristics remote-eventstorming remote-work
+tags: guiding-heuristics remote-eventstorming remote-workshop
 authors: Kenny Baas-Schwegler
 ---
 

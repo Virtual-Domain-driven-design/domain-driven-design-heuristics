@@ -1,7 +1,7 @@
 ---
-title: "Remote EventStorming: Add minority wisdom to decision"
+title: "Remote EventStorming: have a dedicated facilitator"
 excerpt: "How do we create a safe remote environment?"
-tags: guiding-heuristics remote-eventstorming remote-work
+tags: guiding-heuristics remote-eventstorming remote-workshop
 authors: Kenny Baas-Schwegler
 ---
 
