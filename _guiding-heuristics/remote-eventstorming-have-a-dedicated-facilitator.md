@@ -1,6 +1,6 @@
 ---
 title: "Remote EventStorming: Add minority wisdom to decision"
-excerpt: "How do we wrap up a dot voting at a big picture EventStorming?"
+excerpt: "How do we create a safe remote environment?"
 tags: guiding-heuristics remote-eventstorming remote-work
 authors: Kenny Baas-Schwegler
 ---
