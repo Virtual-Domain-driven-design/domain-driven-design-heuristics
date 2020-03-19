@@ -1,14 +1,13 @@
 ---
-title: "Remote EventStorming: Use a mob programming style enforcing the timeline"
-excerpt: "How do we engage people during a remote EventStorming?"
+title: "Remote EventStorming: Everyone has their camera on with split screens"
+excerpt: "How do we create a safe remote environment?"
 tags: guiding-heuristics remote-eventstorming remote-work
 authors: Kenny Baas-Schwegler
 ---
 
 # Description
 
-Start enforcing a single flow EventStorm, have only one person able to edit post-its and have the rest navigate that person. 
-
+Everyone should have their camera on and uses two screens. On one screen we can look each other in the eyes and on the other one we use the remote tool.
 
 # Summary of the solution
 
