@@ -21,6 +21,8 @@ heuristics:
         url: /guiding-heuristics/
       - title: "EventStorming"
         url: /eventstorming/
+      - title: "Remote EventStorming"
+        url: /remote-eventstorming/
   - title: "Value-based Heuristics"
     children:
       - title: "All"
