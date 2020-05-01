@@ -21,6 +21,8 @@ heuristics:
         url: /guiding-heuristics/
       - title: "EventStorming"
         url: /eventstorming/
+      - title: "Example Mapping"
+        url: /example-mapping/
       - title: "Remote EventStorming"
         url: /remote-eventstorming/
   - title: "Value-based Heuristics"
