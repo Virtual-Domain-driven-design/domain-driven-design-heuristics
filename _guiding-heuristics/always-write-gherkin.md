@@ -1,6 +1,6 @@
 ---
-title: "Example Mapping: Visualise Examples"
-excerpt: "How can we create a better shared understanding about the examples?"
+title: "Always write Gherkin"
+excerpt: "When should I formalise with the Gherkin script?"
 tags: guiding-heuristics behaviour-driven-development
 authors: Matt Wynne
 submitter: Kenny Baas-Schwegler

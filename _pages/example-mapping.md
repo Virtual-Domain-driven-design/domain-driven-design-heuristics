@@ -1,5 +1,5 @@
 ---
-title: "Exmaple Mapping Guiding Heuristics"
+title: "Example Mapping Guiding Heuristics"
 excerpt: ""
 layout: collection
 permalink: /example-mapping/

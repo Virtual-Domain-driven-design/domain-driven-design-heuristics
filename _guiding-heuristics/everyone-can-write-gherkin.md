@@ -1,6 +1,6 @@
 ---
-title: "Example Mapping: Visualise Examples"
-excerpt: "How can we create a better shared understanding about the examples?"
+title: "Everyone can write Gherking script"
+excerpt: "Who writes Gherkin scripts?"
 tags: guiding-heuristics behaviour-driven-development
 authors: Kenny Baas-Schwegler
 ---
