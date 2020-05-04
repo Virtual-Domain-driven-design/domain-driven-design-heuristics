@@ -1,13 +1,13 @@
 ---
-title: "Example Mapping: Split business rule above three examples"
-excerpt: "When can we discover more business rules during example mapping?"
+title: "Example Mapping: Use a maximum of 20 minutes for a story"
+excerpt: "How long does Example Mapping take?"
 tags: guiding-heuristics example-mapping behaviour-driven-development
 authors: Kenny Baas-Schwegler
 ---
 
 # Short description
 
-When a rule get's more than three example, split up the rule into two seperate rules.
+When Example Mapping a story we want to timebox our Example Mapping for it to 20 minutes. After we want to either split the story or answer the questions before pulling it out again.
 
 # Context
 
