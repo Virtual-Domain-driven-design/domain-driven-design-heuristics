@@ -11,13 +11,13 @@ From a big picture EventStorming workshop, looking for one-way flow of orange st
 
 # Examples
 
-A new hotel is created.
-The hotel images where uploaded.
-The hotel pricing is done.
-The hotel pricing is approved.
-The hotel marked as ready for reserve.
-The room was reserved.
-The room was released.
+ - A new hotel is created. 
+ - The hotel images were uploaded.
+ - The hotel pricing is done.
+ - The hotel pricing is approved. 
+ - The hotel marked as ready for reserve.
+ - The room was reserved.
+ - The room was released.
 
 # Context
 
