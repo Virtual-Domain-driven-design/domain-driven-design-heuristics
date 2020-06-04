@@ -12,13 +12,13 @@ To work with Jekyll check out the [Jekyll Site](https://jekyllrb.com/)
 
 You can add your own heuristics as a markdown file under the respective _XXXX-heuristics directory. 
 
-Not everyone uses github so alterntivly you can send your heuristic in an email to submit@dddheuristic.com.
+Not everyone uses github so alternatively you can send your heuristic in an email to submit@dddheuristic.com.
 
 # Writing, Remembering, and Sharing Design Heuristics
 
 For more information please read about how to write Heuristics Rebecca her article [Writing, Remembering, and Sharing Design Heuristics](http://wirfs-brock.com/blog/2019/04/12/writing/)
 
-There are some contraint when submitting a heuristic, you need to use at least the follow template:
+There are some constraint when submitting a heuristic, you need to use at least the follow template:
 
 ## Template
 
